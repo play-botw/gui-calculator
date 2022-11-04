@@ -10,10 +10,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
+
 ```
 python -m pip install pyqt5
-conda install -c anaconda pyqt
-```
+'''
 
 ### Installing
 
