@@ -58,7 +58,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [PyQt5](http://www.example.com/) - PyQt5
+* [PyQt5](https://pypi.org/project/PyQt5/) - PyQt5
 
 ## Contributing
 
